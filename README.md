@@ -1,2 +1,2 @@
 # single-page-CV
-http://127.0.0.1:5500/CV.html
+https://chavarriad.github.io/single-page-CV/CV.html
